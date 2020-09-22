@@ -1,6 +1,6 @@
 /* Header */
 
-header {
+  header {
     background: url('http://www.kodhus.com/freecourse-images/header-image.jpg');
     background-size: cover;  
     text-align: center;
@@ -39,7 +39,7 @@ header {
     line-height: 1.88889;
     color: #555753;  
     margin: auto;
-    }
+  }
   
   body {
    font-family: 'Cardo', serif;
