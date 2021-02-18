@@ -1,0 +1,6 @@
+/* phone */
+@media only screen and (max-width: 600px) { 
+    a.social-icons i {
+        width: 80%
+    }
+}
