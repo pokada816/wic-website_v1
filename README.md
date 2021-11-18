@@ -1,3 +1,3 @@
 # Women in Computing Website 
 
-Link to site: https://wicoswego.netlify.app/
+Link to site: https://oswego-wic.netlify.app/
